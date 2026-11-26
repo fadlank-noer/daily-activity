@@ -1,0 +1,16 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Agent workspace (per-project .brain)
+.brain-project/
+
+# Kotlin build sessions (Kotlin 2.x)
+.kotlin/
